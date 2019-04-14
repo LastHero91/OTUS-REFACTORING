@@ -1,0 +1,16 @@
+#IntellijIdea:
+**/.idea
+**.iml
+**/target
+
+#Maven:
+**/log/
+**/logs/
+**/target/
+
+#Сommon
+**/out
+**.class
+**.jar
+**.war
+**.ear
