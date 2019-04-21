@@ -18,5 +18,9 @@
         <maven.compiler.release>1.11</maven.compiler.release>
     </properties>
 
-
+    <developers>
+        <developer>
+            <name>LastHero91</name>
+        </developer>
+    </developers>
 </project>
