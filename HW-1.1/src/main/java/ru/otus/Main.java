@@ -12,7 +12,6 @@ public class Main {
         multiset.add("Example");
         multiset.add("Example");
         multiset.add("Example");
-        multiset.add("Example");
 
         System.out.println(multiset);
     }
