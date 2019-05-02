@@ -1,6 +1,5 @@
 package ru.otus;
 
-import java.util.Optional;
 import java.util.function.Supplier;
 
 public class Main {
