@@ -10,6 +10,7 @@
     <version>1.0-RELEASE</version>
     <modules>
         <module>HW-1.1</module>
+        <module>HW-2.1</module>
     </modules>
 
     <properties>

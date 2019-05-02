@@ -13,7 +13,7 @@
 
     <properties>
         <com.google.guava.version>27.1-jre</com.google.guava.version>
-     </properties>
+    </properties>
 
 
     <dependencies>
