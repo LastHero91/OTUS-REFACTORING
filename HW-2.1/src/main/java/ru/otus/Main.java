@@ -37,6 +37,8 @@ public class Main {
         System.out.println(ClassLayout.parseClass(MyClass6.class).toPrintable());
         System.out.println('-');
         System.out.println(ClassLayout.parseClass(MyClass7.class).toPrintable());
+        System.out.println('-');
+        System.out.println(ClassLayout.parseClass(MyClass8.class).toPrintable());
         System.out.println("***********************");
 
     }
@@ -123,6 +125,10 @@ public class Main {
     }
     public static class MyClass7{
         private boolean b = true;
+        private int i = 5;
+    }
+    public static class MyClass8{
+        MyClass2 myClass2 = new MyClass2();
         private int i = 5;
     }
 }
