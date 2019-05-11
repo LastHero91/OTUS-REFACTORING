@@ -8,10 +8,10 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        Integer array[] = new Integer[3];
-        array[0] = 1;
-        array[1] = 2;
-        array[2] = 3;
+        Integer array[] = new Integer[100];
+        for(int i = 0; i < 100; i++){
+            array[i] = i;
+        }
         List<Integer> list = new ArrayList<>();
         List<Integer> myList = new MyArrayList<>();
 
